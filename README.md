@@ -26,7 +26,9 @@ Ethanol, methane, acetic acid, aspirin, caffeine
 ![QED plot](qed_plot.png)
 
 ## Installation
-pip install rdkit pandas numpy matplotlib jupyter
+   ```
+   pip install rdkit pandas numpy matplotlib jupyter
+   ```
 
 ## Usage
 Open `Molecular_Descriptor_Calculation.ipynb` in Jupyter Notebook and run all cells.
